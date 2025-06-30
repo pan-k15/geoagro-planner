@@ -1,0 +1,52 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints (ถ้ามี)
+.ipynb_checkpoints/
+
+# VSCode or IDE-specific folders
+.vscode/
+.idea/
+
+# Streamlit specific
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# Log files
+*.log
+
+# Output files
+*.csv
+*.tsv
+*.parquet
+*.json
+*.xlsx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.egg-info/
+*.egg
+dist/
+build/
+
+# dotenv files (if used)
+.env
+.env.*
+
+# Streamlit temporary uploads
+.streamlit/uploads/
+
+# SQLite or local DBs (ถ้ามี)
+*.sqlite
+*.db
