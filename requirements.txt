@@ -4,3 +4,4 @@ streamlit-folium
 geopandas
 shapely
 requests
+pandas
